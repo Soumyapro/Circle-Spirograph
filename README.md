@@ -1,2 +1,2 @@
 # Circle-Spirograph
-A visual effect of circle spirograph image using python
+A visual effect of circle spirograph image using turtle module.
